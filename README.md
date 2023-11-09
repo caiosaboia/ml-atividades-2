@@ -1,2 +1,2 @@
 # ml-atividades-2
-Atividade do bootcamp Avanti de Machine Learning
+Segunda atividade do bootcamp Avanti de Machine Learning
